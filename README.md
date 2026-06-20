@@ -15,7 +15,4 @@ A Retrieval-Augmented Generation system using:
 - Context-aware answers
 - Chat interface
 
-## How to run
-pip install -r requirements.txt
-python ingest.py
-streamlit run app.py
+
